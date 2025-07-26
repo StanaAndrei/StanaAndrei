@@ -2,4 +2,4 @@
 
 Welcome to my GitHub profile!
 
-Find more about me [here](https://portfolio-786060.gitlab.io/)
+Find more about me: **[My Portfolio Website](https://portfolio-786060.gitlab.io/)**
