@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-Find more about me **[HERE](https://portfolio-786060.gitlab.io/)**
+Find more about me ⇒**[HERE](https://portfolio-786060.gitlab.io/)**⇐
 
 [![Profile Trophy](https://github-profile-trophy.vercel.app/?username=StanaAndrei)](https://github.com/ryo-ma/github-profile-trophy)
 
