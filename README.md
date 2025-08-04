@@ -4,8 +4,6 @@ Welcome to my GitHub profile!
 
 Find more about me ⇒ **[HERE](https://portfolio-786060.gitlab.io/)** ⇐
 
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=StanaAndrei)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📈 My GitHub Stats
 ![Stana's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanaAndrei&show_icons=true&theme=radical) [[6]]
 
@@ -16,4 +14,4 @@ Find more about me ⇒ **[HERE](https://portfolio-786060.gitlab.io/)** ⇐
 ![Trophies](https://github-profile-trophy.vercel.app/?username=StanaAndrei&theme=radical)
 
 ## 💬 Used Languages 
-![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StanaAndrei&layout=donut-vertical&langs_count=100)
+![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StanaAndrei&layout=donut-vertical&langs_count=100&theme=radical)
