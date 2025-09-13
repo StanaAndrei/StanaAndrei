@@ -15,3 +15,6 @@ Find more about me ⇒ **[HERE](https://portfolio-786060.gitlab.io/)** ⇐
 
 ## 💬 Used Languages 
 ![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StanaAndrei&layout=donut-vertical&langs_count=100&theme=radical)
+
+## 👀 Visits
+![Visits](https://komarev.com/ghpvc/?username=StanaAndrei)
