@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-Find more about me ⇒ **[HERE](https://portfolio-786060.gitlab.io/)** ⇐
+Find more about me ⇒ **[HERE](https://stanaandrei.github.io/personal-page/)** ⇐
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=StanaAndrei&theme=radical)
